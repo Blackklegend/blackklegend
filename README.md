@@ -2,20 +2,15 @@
 
 <br>
 
-> I'm blackk, the owner of this profile (I could also be a hacker, in case you're wondering why I 
-> identified myself. Never take things as granted), glad you're here, hope you find something
-> interesting. If you don't, well it happens lol<br>
+> I'm Blackk, the owner of this profile (I could also be a hacker, in case you're wondering why I 
+> identified myself. Never take things for granted), glad you're here, hope you find something interesting. 
+> If you don't, well it happens lol <br>
 > Have Fun!
 > <br><br>
-> OH right right, you may want to know a bit about me. I think I can tell you somethings
-> <br> Let's see.. ah I know now, let's gooooooo
+> OH right right, you may want to know a bit about me. I think I can tell you somethings <br>
+> Let's see.. ah I know now, let's goooooo
 
-<br><br>
-
-My actual name is Vitor, and I'm brazilian; beatiful country, lot's of food, places to travel to,
-all that good stuff. I know four idioms: Portuguese that's my first language, English, Spanish and 
-LIBRAS, which is the brazilian sign language. All of them I've learned alone, took me a while though, 
-and I'm not the best, works out fine afterall.
+My actual name is Vitor, and I'm Brazilian; a beautiful country, lot's of food, places to travel to, all that good stuff. I know four idioms: Portuguese which's my first language, English, Spanish, and LIBRAS, which is the Brazilian sign language. All of them I've learned alone took me a while though, and I'm not the best, works out fine after all.
 
 - 🔭 I’m currently working on:
   - No big projects at moment but some ideas are turning out fine, hope some of them give me fruits.
@@ -25,11 +20,11 @@ and I'm not the best, works out fine afterall.
   - SQL
   - Bootstrap
   - I know that's not the best approach to learn lot's at the same time, but diversifying is also good
-  so yeeee ig, anyways
+  so yeeee i.g., anyways
 
 - I'm skilled with hardware and operational systems, I usually spend some time troubleshooting. Yeah, what a nerd.
 
-- Anyway, I'm not all about talking tho lol, my github exists for a reason, and they're:
+- Anyway, I'm not all about talking tho lol, my GitHub exists for a reason, and they're:
   - C based languages
   <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/>
@@ -48,4 +43,4 @@ and I'm not the best, works out fine afterall.
 - 📫 You can find me anywhere lol, but my discord is BlackkLegend#7487, and if you feel old school you can email me at bl4ckklegend@gmail.com
 
 - ⚡ Fun fact: Our bodies actually can't feel temperature, just the electric charge moving around.
-If it leaves your body, then you feel cold, if it enters you feel warmth.
+If it leaves your body, then you feel cold, if it enters you feel the warmth.
