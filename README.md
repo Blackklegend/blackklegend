@@ -2,8 +2,7 @@
 
 <br>
 
-> I'm Blackk, the owner of this profile (I could also be a hacker, in case you're wondering why I 
-> identified myself. Never take things for granted), glad you're here, hope you find something interesting. 
+> I'm Blackk, the owner of this profile. I'm glad you're here and hope you find something interesting. 
 > If you don't, well it happens lol <br>
 > Have Fun!
 > <br><br>
