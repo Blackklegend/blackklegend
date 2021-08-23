@@ -25,7 +25,7 @@ My actual name is Vitor, and I'm Brazilian; a beautiful country, lot's of food, 
   <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/>
-  <img src="https://icon-library.com/images/arduino-icon/arduino-icon-3.jpg" height="40"></p>
+  <img src="http://content.arduino.cc/website/Arduino_logo_teal.svg" height="40"></p>
 
   - Web DEV 
   <p>
