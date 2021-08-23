@@ -15,15 +15,12 @@ My actual name is Vitor, and I'm Brazilian; a beautiful country, lot's of food, 
   - No big projects at moment but some ideas are turning out fine, hope some of them give me fruits.
   
 - 🌱 I’m currently learning:
-  - Java
-  - SQL
-  - Bootstrap
-  - I know it's not the best approach to learn lot's at the same time, but diversifying is also good
-  so yeeee i.g. Anyways
+  - React native
 
 - I'm skilled with hardware and operational systems, I usually spend some time troubleshooting. Yeah, what a nerd.
 
 - I'm not all about talking though, lol. My GitHub exists for:
+  - SQL
   - C based languages
   <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/>
