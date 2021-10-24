@@ -42,7 +42,7 @@ My actual name is Vitor, and I'm Brazilian; a beautiful country, lot's of food, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
 - 💬 Ask me about anything, if I know the answer, I'll tell you right away, if not, we'll find it.
-- 📫 You can find me anywhere lol, but my discord is BlackkLegend#7487, and if you feel old school you can email me at bl4ckklegend@gmail.com
+- 📫 You can find me anywhere lol, but my discord is BlackkLegend#3638, and if you feel old school you can email me at bl4ckklegend@gmail.com
 
 - ⚡ Fun fact: Our bodies actually can't feel temperature, just the electric charge moving around.
 If it leaves your body, then you feel cold, if it enters you feel the warmth.
