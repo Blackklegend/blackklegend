@@ -1,3 +1,27 @@
+<style>
+  .grid-item {
+    height: 45px; 
+    width: 21%; 
+    margin: 5px; 
+    padding: 11px 0 0 14px; 
+    border-radius: 10px; 
+    background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); 
+    display: inline-block;
+  }
+
+  .grid-container {
+    justify-content: center; 
+    width: 100%; 
+    row-gap: 10px; 
+    font-weight: bold; 
+    margin: 10px 0px 10px 0px;
+    border: 2px solid purple; 
+    margin: 5px; padding: 1rem 0px 1rem 1.8rem; 
+    border-radius: 8px;
+  }
+
+</style>
+
 ## Yo, hello!
 
 <br>
@@ -25,27 +49,27 @@ My actual name is Vitor, and I'm Brazilian. Brazil is a beautiful country, lot's
 
 - The main technologies I'm familiar with are: 
 
-<div style="justify-content: center; width: 100%; row-gap: 10px; font-weight: bold; margin: 10px 0px 10px 0px; border: 2px solid purple; margin: 5px; padding: 1rem 0px 1rem 1.8rem; border-radius: 8px;">
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./html.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">HTML</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./css.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">CSS</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./js.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">JavaScript</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./bootstrap.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">Bootstrap</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./php.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">PHP</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./c.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">C</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./cplusplus.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">C++</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./arduino.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">ARDUINO</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./mongodb.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">MongoDB</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./postgresql.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">PostgreSQL</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./mysql.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">MySQL</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./python.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Python</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./java.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Java</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./springio.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Spring Boot</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./nodejs.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Node.JS</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./react.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">React</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./typescript.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">TypeScript</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./angular.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Angular</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./react.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">React Native</span></div>
-  <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./expo.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Expo</span></div>
+<div class="grid-container">
+  <div class="grid-item"><img src="./html.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">HTML</span></div>
+  <div class="grid-item"><img src="./css.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">CSS</span></div>
+  <div class="grid-item"><img src="./js.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">JavaScript</span></div>
+  <div class="grid-item"><img src="./bootstrap.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">Bootstrap</span></div>
+  <div class="grid-item"><img src="./php.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">PHP</span></div>
+  <div class="grid-item"><img src="./c.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">C</span></div>
+  <div class="grid-item"><img src="./cplusplus.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">C++</span></div>
+  <div class="grid-item"><img src="./arduino.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">ARDUINO</span></div>
+  <div class="grid-item"><img src="./mongodb.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">MongoDB</span></div>
+  <div class="grid-item"><img src="./postgresql.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">PostgreSQL</span></div>
+  <div class="grid-item"><img src="./mysql.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">MySQL</span></div>
+  <div class="grid-item"><img src="./python.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Python</span></div>
+  <div class="grid-item"><img src="./java.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Java</span></div>
+  <div class="grid-item"><img src="./springio.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Spring Boot</span></div>
+  <div class="grid-item"><img src="./nodejs.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Node.JS</span></div>
+  <div class="grid-item"><img src="./react.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">React</span></div>
+  <div class="grid-item"><img src="./typescript.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">TypeScript</span></div>
+  <div class="grid-item"><img src="./angular.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Angular</span></div>
+  <div class="grid-item"><img src="./react.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">React Native</span></div>
+  <div class="grid-item"><img src="./expo.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px; font-weight: bold">Expo</span></div>
 </div>
 
 - Other than the above I have some minor experience with:  
