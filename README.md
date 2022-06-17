@@ -25,7 +25,7 @@ My actual name is Vitor, and I'm Brazilian. Brazil is a beautiful country, lot's
 
 - The main technologies I'm familiar with are: 
 
-<div style="justify-content: center; width: 100%; row-gap: 10px; font-weight: bold; margin: 10px 0px 10px 0px; border: 2px solid purple; margin: 5px; padding: 1rem 0px 1rem 1.8rem; border-radius: 8px;">
+<div style="justify-content: center; width: 100%; row-gap: 10px; font-weight: bold; margin: 10px 0px 10px 0px; border: 2px solid purple; margin: 5px; padding: 1rem 0px 1rem 1rem; border-radius: 8px;">
   <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./html.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">HTML</span></div>
   <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./css.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">CSS</span></div>
   <div style="height: 45px; width: 21%; margin: 5px; padding: 11px 0 0 14px; border-radius: 10px; background: linear-gradient(110.35deg, #424D70 13.53%, #AB4AFF 125.38%); display: inline-block"><img src="./js.svg" height="35"><span style="vertical-align: 10px; margin-left: 20px">JavaScript</span></div>
