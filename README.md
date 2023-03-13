@@ -71,6 +71,10 @@ My actual name is Vitor, and I'm Brazilian. Brazil is a beautiful country, lot's
 - ⚡ Fun fact: Our bodies actually can't feel temperature, just the electric charge moving around.
 If it leaves your body then you feel cold, if it enters you feel warm.
 
-
-![programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackklegend&layout=compact&theme=synthwave&count_private=true)
+---  
 ![blackklegend's stats](https://github-readme-stats.vercel.app/api?username=blackklegend&count_private=true&show_icons=true&theme=synthwave&hide=stars,contribs)
+![programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackklegend&layout=compact&theme=synthwave&count_private=true)
+
+---  
+
+![blackklegend's contribution](./profile-3d-contrib/profile-night-rainbow.svg)
