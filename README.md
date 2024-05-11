@@ -4,25 +4,17 @@
 
 > I'm Blackk, the owner of this profile. I'm glad you're here and hope you find something interesting. 
 > If you don't, well it happens.  
-> Have Fun!  
-> 
-> Oh! right right, you may want to know a bit about me. I think I can tell you some things   
-> Let's see...
 
 My actual name is Vitor, and I'm Brazilian. Brazil is a beautiful country, lot's good of food, places to travel to, all that good stuff. I know four idioms: Portuguese which's my first language, English, Spanish, and LIBRAS, which is the Brazilian sign language. All of them I've learnt by myself, but it took me a while, and I'm not the best, but it works out fine after all.
 
-- 🔭 I’m currently working on:
-  - [Findev](https://findev.com.br) 
-    - A website that aims to smooth the search for developers, making a bridge between client and dev.
-  - [OneFlower](https://github.com/Blackklegend/Oneflower) 
-    - A Minecraft modpack.
+~- 🔭 I’m currently working on:~
+- I have no projects ongoing at the moment, but I am trying to contribute more to open source projects.
+
   
 - 🌱 I’m currently learning:  
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-- I'm skilled with hardware and operational systems, I caught myself troubleshooting for fun sometimes.
-
+  ![dot net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  
 - The main technologies I'm familiar with are: 
 
   - Web  
@@ -66,7 +58,11 @@ My actual name is Vitor, and I'm Brazilian. Brazil is a beautiful country, lot's
   ![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 💬 Ask me about anything, if I know the answer, I'll tell you right away, if not, we'll find it.  
+- I'm also skilled with hardware and operational systems both windows and linux alike
+  
+- I've also worked with kafka, digitalocean, AWS, yarn, managed domains, DNSes and hosts
+
+- 💬 I enjoy teaching so ask me about anything, if I know the answer, I'll tell you right away, if not, we'll find it.  
 
 - ⚡ Fun fact: Our bodies actually can't feel temperature, just the electric charge moving around.
 If it leaves your body then you feel cold, if it enters you feel warm.
